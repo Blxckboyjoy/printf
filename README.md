@@ -1,3 +1,2 @@
-# Printf Project By:
-## Ephraim Igbinosa
-## Iyamu Idahosa
+Printf Project By:
+natangwe nahole
